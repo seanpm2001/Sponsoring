@@ -1,13 +1,15 @@
 
 ***
 
-# Seanpm2001 GitHub sponsoring
+# [Seanpm2001 GitHub sponsoring](#Seanpm2001-GitHub-sponsoring)
 
 `❤️💸️❤️ GitHub sponsor information.`
 
 **See also:** [:octocat: `Sponsor info`](https://github.com/seanpm2001/Sponsor-info/)
 
-## GitHub sponsor program
+***
+
+## [GitHub sponsor program](#GitHub-sponsor-program)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -27,7 +29,7 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 </details>
 
-### Sponsoring
+### [Sponsoring](#Sponsoring)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -59,7 +61,7 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 </details>
 
-#### Organizations
+#### [Organizations](#Organizations)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -89,7 +91,7 @@ This is a list of organizations I am sponsoring.
 
 </details>
 
-##### Under consideration (organizations)
+##### [Under consideration (organizations)](#Under-consideration-organizations)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -103,7 +105,7 @@ The following organizations are being considered for monthly donations:
 
 </details>
 
-#### Individual developers
+#### [Individual developers](#Individual-developers)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -111,7 +113,7 @@ This is a list of individual developers I am sponsoring.
 
 - I am not yet sponsoring any individual developers, as of 2023, May 10th
 
-**Individual developer only table***
+**Individual developer only table**
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this table]</b></p></summary>
 
@@ -132,7 +134,7 @@ This is a list of individual developers I am sponsoring.
 
 </details>
 
-##### Under consideration (individual developers)
+##### [Under consideration (individual developers)](#Under-consideration-individual-developers)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -149,7 +151,7 @@ The following users are being considered for monthly donations:
 
 ***
 
-## Sponsors
+## [Sponsors](#Sponsors)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -191,9 +193,9 @@ Coming soon
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Wednesday, May 10th at 2:41 pm PST)`
+**File version:** `3 (2023, Wednesday, May 10th at 2:47 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,282`
+**Line count (including blank lines and compiler line):** `0,306`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -267,6 +269,28 @@ Coming soon
 - [ ] No other changes in version 2
 
 </details> <!-- V02 !-->
+
+<details><summary><p lang="en"><b>Version 3 (2023, Wednesday, May 10th at 2:47 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V3.md)
+
+> **Note** _A small update, with some minor tweaks_
+
+> Changes:
+
+- [x] Added anchor links to the remaining headings that didn't have them
+- [x] Removed an excess asterisk and added a divider
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- V03 !-->
 
 </details> <!-- End of file history !-->
 
