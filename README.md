@@ -33,7 +33,7 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Total money donated:** `$5.00USD` (as of 2023, Wednesday, May 10th)
+**Total money donated:** `$5.00USD` (as of 2023, Sunday, May 14th)
 
 **All-in-one table**
 
@@ -67,7 +67,7 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 This is a list of organizations I am sponsoring.
 
-- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($5.00 total, as of 2023, May 10th)
+- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($5.00 total, as of 2023, May 14th)
 - I am not sponsoring any other organizations at the moment, as of 2023, May 10th
 
 **Organization only table**
@@ -111,7 +111,7 @@ The following organizations are being considered for monthly donations:
 
 This is a list of individual developers I am sponsoring.
 
-- I am not yet sponsoring any individual developers, as of 2023, May 10th
+- I am not yet sponsoring any individual developers, as of 2023, May 14th
 
 **Individual developer only table**
 
@@ -155,35 +155,7 @@ The following users are being considered for monthly donations:
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-To be split off into a separate file (in the repository: [:octocat: `Seanpm2001/Sponsors`](https://github.com/seanpm2001/Sponsors/)
-
-```markdown
-
-***
-
-# Sponsors of seanpm2001
-
-Only public sponsors are listed.
-
-Coming soon
-
-## Individual developers
-
-Coming soon
-
-## Organizations
-
-Coming soon
-
-## Tiers
-
-Coming soon
-
-***
-
-```
-
-</details>
+This section was split off into the following repository: [:octocat: `Seanpm2001/Sponsors`](https://github.com/seanpm2001/Sponsors/)
 
 ***
 
@@ -193,9 +165,9 @@ Coming soon
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Wednesday, May 10th at 2:47 pm PST)`
+**File version:** `4 (2023, Sunday, May 14th at 5:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,306`
+**Line count (including blank lines and compiler line):** `0,300`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -291,6 +263,28 @@ Coming soon
 - [ ] No other changes in version 3
 
 </details> <!-- V03 !-->
+
+<details><summary><p lang="en"><b>Version 4 (2023, Sunday, May 14th at 5:28 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V3.md)
+
+> **Note** _Another small update, with some minor tweaks_
+
+> Changes:
+
+- [x] Updated all `as of` counters to 2023, May 14th
+- [x] Moved the `Sponsors` section into its own separate repository, and added a notice to link to that repository
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
+
+</details> <!-- V04 !-->
 
 </details> <!-- End of file history !-->
 
