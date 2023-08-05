@@ -3,6 +3,8 @@
 
 # [Seanpm2001 GitHub sponsoring](#Seanpm2001-GitHub-sponsoring)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this article]</b></p></summary>
+
 `❤️💸️❤️ GitHub sponsor information.`
 
 **See also:** [:octocat: `Sponsor info`](https://github.com/seanpm2001/Sponsor-info/)
@@ -33,7 +35,7 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Total money donated:** `$5.00USD` (as of 2023, Sunday, May 14th)
+**Total money donated:** `$15.00USD` (as of 2023, Friday, August 4th)
 
 **All-in-one table**
 
@@ -67,8 +69,10 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 This is a list of organizations I am sponsoring.
 
-- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($5.00 total, as of 2023, May 14th)
+- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($15.00 total, as of 2023, August 4th)
 - I am not sponsoring any other organizations at the moment, as of 2023, May 10th
+
+<!-- - [:octocat: `@KDE`](https://github.com/KDE/) - Future sponorship is planned !-->
 
 **Organization only table**
 
@@ -97,7 +101,7 @@ This is a list of organizations I am sponsoring.
 
 The following organizations are being considered for monthly donations:
 
-- [:octocat: `@kde`](https://github.com/KDE/) - Very strong consideration, waiting until 2023, June 9th to make a decision
+- [:octocat: `@kde`](https://github.com/KDE/) - Guaranteed to be the next sponsorship, waiting for an opportunity
 - [:octocat: `@pypa`](https://github.com/Pypa/) - Medium consideration
 - [:octocat: `@webtorrent`](https://github.com/WebTorrent/) - Weak consideration
 - [:octocat: `@eslint`](https://github.com/ESLint/) - Very weak consideration
@@ -111,7 +115,7 @@ The following organizations are being considered for monthly donations:
 
 This is a list of individual developers I am sponsoring.
 
-- I am not yet sponsoring any individual developers, as of 2023, May 14th
+- I am not yet sponsoring any individual developers, as of 2023, August 4th
 
 **Individual developer only table**
 
@@ -157,6 +161,10 @@ The following users are being considered for monthly donations:
 
 This section was split off into the following repository: [:octocat: `Seanpm2001/Sponsors`](https://github.com/seanpm2001/Sponsors/)
 
+</details>
+
+</details>
+
 ***
 
 ### [File info](#File-info)
@@ -165,9 +173,17 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `4 (2023, Sunday, May 14th at 5:28 pm PST)`
+**File version:** `5 (2023, Monday, August 4th at 5:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,300`
+**Line count (including blank lines and compiler line):** `0,347`
+
+**Word count:** `2,432`
+
+**Character count (including spaces):** `15,675`
+
+**Character count (excluding spaces):** `13,919`
+
+**Size (in bytes):** `15,688`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -286,6 +302,35 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 </details> <!-- V04 !-->
 
+<details><summary><p lang="en"><b>Version 5 (2023, Friday, August 4th at 5:03 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V3.md)
+
+> **Note** _Maintenance update that was overdue. Sponsorships renew in 5 days._
+
+> Changes:
+
+- [x] Added a full-article dropdown link
+- [x] Updated all `as of` counters to 2023, August 4th
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Added the word count
+- - [x] Added the character count (with spaces) count
+- - [x] Added the character count (without spaces) count
+- - [x] Added the byte count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 5
+- [x] Updated the Footer
+- - [x] Fixed a broken link
+- - [x] Added the EOF line
+- [ ] No other changes in version 5
+
+</details> <!-- V05 !-->
+
 </details> <!-- End of file history !-->
 
 ***
@@ -294,6 +339,8 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 You have reached the bottom of this page.
 
-( [Back to top](#AI2001) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+( [Back to top](#Seanpm2001-GitHub-sponsoring) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+
+###### [EOF](#EOF)
 
 ***
