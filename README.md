@@ -1,13 +1,27 @@
 
 ***
 
-# [Seanpm2001 GitHub sponsoring](#Seanpm2001-GitHub-sponsoring)
-
 <details open><summary><p><b>[Click/tap here to expand/collapse this article]</b></p></summary>
+
+<div align="center">
+    <h6 id="Top"><a href="#Top">Top</a></h6>
+    <img src="/Graphics/GitHub/Badges/Sponsors/badge-sponsors-small.png" alt="GitHub Sponsors Badge" title="GitHub Soonsors achievement badge" width="256" height="256" class="center"/>
+    <h1 id="Title"><a href="Title">Seanpm2001 GitHub sponsoring</a></h1>
+</div>
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the lead section]</b></p></summary>
 
 `❤️💸️❤️ GitHub sponsor information.`
 
 **See also:** [:octocat: `Sponsor info`](https://github.com/seanpm2001/Sponsor-info/)
+
+> [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
+
+| <img src="/Graphics/GitHub/Screenshots/2023/10_October/15/Screenshot%202023-10-15%20at%2019-18-56%20Explore%20GitHub%20Sponsors.png" alt="$30USD donated, as of 2023, October 9th" title="Amazing! You've given a total of $30 to open source software since May 2023" width="364" height="274"> |
+|-------------------------------------------------|
+| **Sponsor status as of:** `2023, Sunday, October 15th` |
+
+</details> <!-- End of lead section !-->
 
 ***
 
@@ -29,13 +43,20 @@
 
 I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to give a monthly $5.00 donation to [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) for as long as I am on GitHub, I will continue to give this monthly $5.00 donation.
 
+> [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
+
 </details>
 
 ### [Sponsoring](#Sponsoring)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Total money donated:** `$15.00USD` (as of 2023, Friday, August 4th)
+**Total money donated:** `$30.00USD` (as of 2023, Monday, October 9th)
+
+- **Payments total**
+- [:octocat: `FreeCodeCamp`](https://github.com/FreeCodeCamp/) `6` payments, totaling `$30.00USD`
+
+> [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
 **All-in-one table**
 
@@ -69,8 +90,10 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 This is a list of organizations I am sponsoring.
 
-- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($15.00 total, as of 2023, August 4th)
-- I am not sponsoring any other organizations at the moment, as of 2023, May 10th
+> [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
+
+- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($30.00 total, as of 2023, October 9th)
+- I am not sponsoring any other organizations at the moment, as of 2023, Monday, October 23rd
 
 <!-- - [:octocat: `@KDE`](https://github.com/KDE/) - Future sponorship is planned !-->
 
@@ -115,7 +138,7 @@ The following organizations are being considered for monthly donations:
 
 This is a list of individual developers I am sponsoring.
 
-- I am not yet sponsoring any individual developers, as of 2023, August 4th
+- I am not yet sponsoring any individual developers, as of 2023, Monday, October 23rd
 
 **Individual developer only table**
 
@@ -173,17 +196,17 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Monday, August 4th at 5:03 pm PST)`
+**File version:** `6 (2023, Monday, October 23rd at 4:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,347`
+**Line count (including blank lines and compiler line):** `0,423`
 
-**Word count:** `2,432`
+**Word count:** `02,860`
 
-**Character count (including spaces):** `15,675`
+**Character count (including spaces):** `018,593`
 
-**Character count (excluding spaces):** `13,919`
+**Character count (excluding spaces):** `016,426`
 
-**Size (in bytes):** `15,688`
+**Size (in bytes):** `018,606`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -202,6 +225,8 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 ## [File history](#File-history)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
+
+---
 
 <details><summary><p lang="en"><b>Version 1 (2023, Tuesday, May 9th at 3:04 pm PST)</b></p></summary>
 
@@ -224,6 +249,8 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 - [ ] No other changes in version 1
 
 </details> <!-- V01 !-->
+
+---
 
 <details><summary><p lang="en"><b>Version 2 (2023, Wednesday, May 10th at 2:41 pm PST)</b></p></summary>
 
@@ -258,6 +285,8 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 </details> <!-- V02 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 3 (2023, Wednesday, May 10th at 2:47 pm PST)</b></p></summary>
 
 **This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
@@ -280,11 +309,13 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 </details> <!-- V03 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 4 (2023, Sunday, May 14th at 5:28 pm PST)</b></p></summary>
 
 **This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V3.md)
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V4.md)
 
 > **Note** _Another small update, with some minor tweaks_
 
@@ -302,11 +333,13 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 </details> <!-- V04 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 5 (2023, Friday, August 4th at 5:03 pm PST)</b></p></summary>
 
 **This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
-**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V3.md)
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V5.md)
 
 > **Note** _Maintenance update that was overdue. Sponsorships renew in 5 days._
 
@@ -331,15 +364,58 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 </details> <!-- V05 !-->
 
+---
+
+<details><summary><p lang="en"><b>Version 6 (2023, Monday, October 23rd at 4:54 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V6.md)
+
+> **Note** _Maintenance update that was overdue. File was overhauled._
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Added a logo
+- - [x] Centered the title and the logo
+- - [x] Added an as of image for 2023, October 15th
+- [x] Updated the `Sponsoring` section
+- - [x] Added the `Payments` microsection
+- [x] Updated all `as of` counters to 2023, October 9th
+- [x] Added a link to the sponsoring timeline in multiple spots
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the character count (with spaces) count
+- - [x] Updated the character count (without spaces) count
+- - [x] Updated the byte count
+- [x] Updated the `File history` section
+- - [x] Updated the entry for version 4
+- - [x] Updated the entry for version 5
+- - [x] Added an entry for version 6
+- [x] Updated the Footer
+- - [x] Made the footer collapse-able
+- [ ] No other changes in version 6
+
+</details> <!-- V06 !-->
+
+---
+
 </details> <!-- End of file history !-->
 
 ***
 
 ## [Footer](#Footer)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the footer]</b></p></summary>
+
 You have reached the bottom of this page.
 
 ( [Back to top](#Seanpm2001-GitHub-sponsoring) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://swisscows.com/) ) 
+
+</details> <!-- End of footer !-->
 
 ###### [EOF](#EOF)
 
