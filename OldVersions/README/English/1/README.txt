@@ -17,9 +17,9 @@
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
-| <img src="/Graphics/GitHub/Screenshots/2023/10_October/15/Screenshot%202023-10-15%20at%2019-18-56%20Explore%20GitHub%20Sponsors.png" alt="$30USD donated, as of 2023, October 9th" title="Amazing! You've given a total of $30 to open source software since May 2023" width="364" height="274"> |
+| <img src="/Graphics/GitHub/Screenshots/2024/04_April/16/Screenshot%202024-04-16%20at%2016-10-56%20Explore%20GitHub%20Sponsors.png" alt="$60USD donated, as of 2024, April 9th" title="Amazing! You've given a total of $60 to open source software since May 2023" width="364" height="274"> |
 |-------------------------------------------------|
-| **Sponsor status as of:** `2023, Sunday, October 15th` |
+| **Sponsor status as of:** `2024, Saturday, May 4th` |
 
 </details> <!-- End of lead section !-->
 
@@ -51,10 +51,10 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Total money donated:** `$30.00USD` (as of 2023, Monday, October 9th)
+**Total money donated:** `$60.00USD` (as of 2024, Saturday, May 4th)
 
 - **Payments total**
-- [:octocat: `FreeCodeCamp`](https://github.com/FreeCodeCamp/) `6` payments, totaling `$30.00USD`
+- [:octocat: `FreeCodeCamp`](https://github.com/FreeCodeCamp/) `12` payments, totaling `$60.00USD`
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
@@ -92,8 +92,8 @@ This is a list of organizations I am sponsoring.
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
-- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($30.00 total, as of 2023, October 9th)
-- I am not sponsoring any other organizations at the moment, as of 2023, Monday, October 23rd
+- [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($60.00 total, as of 2024, April 9th)
+- I am not sponsoring any other organizations at the moment, as of 2024, Saturday, May 4th
 
 <!-- - [:octocat: `@KDE`](https://github.com/KDE/) - Future sponorship is planned !-->
 
@@ -138,7 +138,7 @@ The following organizations are being considered for monthly donations:
 
 This is a list of individual developers I am sponsoring.
 
-- I am not yet sponsoring any individual developers, as of 2023, Monday, October 23rd
+- I am not yet sponsoring any individual developers, as of 2024, Saturday, May 4th
 
 **Individual developer only table**
 
@@ -194,25 +194,16 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-
-**File version:** `6 (2023, Monday, October 23rd at 4:54 pm PST)`
-
-**Line count (including blank lines and compiler line):** `0,423`
-
-**Word count:** `02,860`
-
-**Character count (including spaces):** `018,593`
-
-**Character count (excluding spaces):** `016,426`
-
-**Size (in bytes):** `018,606`
-
-**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
-
-**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
-
-**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `7 (2024, Saturday, May 4th at 03:31 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,449`
+- **Word count:** `03,046`
+- **Character count (including spaces):** `019,792`
+- **Character count (excluding spaces):** `017,413`
+- **Size (in bytes):** `019,805`
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -400,6 +391,41 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 - [ ] No other changes in version 6
 
 </details> <!-- V06 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 7 (2024, Saturday, May 4th at 03:31 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V7.md)
+
+> **Note** _Maintenance update that was overdue. First update of 2024._
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Added a logo
+- - [x] Centered the title and the logo
+- - [x] Added an as of image for 2024, May 4th
+- [x] Updated the `Sponsoring` section
+- - [x] Added the `Payments` microsection
+- [x] Updated all `as of` counters to 2024, May 4th
+- [x] Added a link to the sponsoring timeline in multiple spots
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the character count (with spaces) count
+- - [x] Updated the character count (without spaces) count
+- - [x] Updated the byte count
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 7
+- [x] Updated the Footer
+- - [x] Made the footer collapse-able
+- [ ] No other changes in version 7
+
+</details> <!-- V07 !-->
 
 ---
 
