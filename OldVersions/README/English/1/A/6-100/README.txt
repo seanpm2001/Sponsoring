@@ -1,12 +1,14 @@
 
 ***
 
+###### [Top](#Top)
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this article]</b></p></summary>
 
 <div align="center">
     <h6 id="Top"><a href="#Top">Top</a></h6>
     <img src="/Graphics/GitHub/Badges/Sponsors/badge-sponsors-small.png" alt="GitHub Sponsors Badge" title="GitHub Soonsors achievement badge" width="256" height="256" class="center"/>
-    <h1 id="Title"><a href="Title">Seanpm2001 GitHub sponsoring</a></h1>
+    <h1 id="Title"><a href="Title" id="Title">Seanpm2001 GitHub sponsoring</a></h1>
 </div>
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the lead section]</b></p></summary>
@@ -17,17 +19,75 @@
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
-| <img src="/Graphics/GitHub/Screenshots/2024/04_April/16/Screenshot%202024-04-16%20at%2016-10-56%20Explore%20GitHub%20Sponsors.png" alt="$60USD donated, as of 2024, April 9th" title="Amazing! You've given a total of $60 to open source software since May 2023" width="364" height="274"> |
+| <img src="/Graphics/GitHub/Screenshots/2024/05_May/09/Screenshot%202024-05-09%20at%2012-59-46%20Explore%20GitHub%20Sponsors.png" alt="$65USD donated, as of 2024, May 9th" title="Amazing! You've given a total of $65 to open source software since May 2023" width="364" height="274"> |
 |-------------------------------------------------|
-| **Sponsor status as of:** `2024, Saturday, May 4th` |
+| **Sponsor status as of:** `2024, Thursday, May 9th` |
 
 </details> <!-- End of lead section !-->
 
 ***
 
+<!-- /%/2001_INDEX_SECTION.BEGIN\%\ !-->
+
+# [Index](#Index)
+
+<table>
+  <tr>
+    <td>
+
+<!--
+Top
+Title
+Index
+GitHub sponsor program
+- Sponsor badge
+- Introduction
+- Sponsoring
+- Organizations
+- Under consideration (organizations)
+- Under consideration (individual developers)
+- Individual developers
+- Sponsors
+File info
+File history
+Footer
+EOF
+!-->
+
+- [0.0 - Top](#Top)
+- [0.1 - Title](#Title)
+- [0.2 - Index](#Index)
+- [1.0 - GitHub sponsor program](#GitHub-sponsor-program)
+- - [1.1 - Sponsor badge](#Sponsor-badge)
+- - [1.2 - Introduction](#Introduction)
+- - [1.3 - Sponsoring](#Sponsoring)
+- - [1.4 - Organizations](#Organizations)
+- - [1.5 - Under consideration (organizations)](#Under-consideration-organizations)
+- - [1.6 - Under consideration (individual developers)](#Under-consideration-individual-developers)
+- - [1.7 - Individual developers](#Individual-developers)
+- - [1.8 - Sponsors](#Sponsors)
+- [2.0 - File info](#File-info)
+- [3.0 - File history](#File-history)
+- [9.9 - Footer](#Footer)
+- - [F.F - EOF](#EOF)
+
+    </td>
+  </tr>
+</table>
+
+<!-- /%/2001_INDEX_SECTION.END\%\ !-->
+
+***
+
 ## [GitHub sponsor program](#GitHub-sponsor-program)
 
+_Information about @seanpm2001 being in the GitHub sponsor program._
+
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+***
+
+### [Sponsor badge](#Sponsor-badge)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this image]</b></p></summary>
 
@@ -37,7 +97,11 @@
 ![badge-sponsors-small.png](/Graphics/GitHub/Badges/Sponsors/badge-sponsors-small.png)
 !-->
 
-</details>
+</details> <!-- End of GitHub sponsor badge image section !-->
+
+***
+
+### [Introduction](#Introduction)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -45,16 +109,18 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
-</details>
+</details> <!-- End of Introduction section !-->
+
+***
 
 ### [Sponsoring](#Sponsoring)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
-**Total money donated:** `$60.00USD` (as of 2024, Saturday, May 4th)
+**Total money donated:** `$65.00USD` (as of 2024, Thursday, May 9th)
 
 - **Payments total**
-- [:octocat: `FreeCodeCamp`](https://github.com/FreeCodeCamp/) `12` payments, totaling `$60.00USD`
+- [:octocat: `FreeCodeCamp`](https://github.com/FreeCodeCamp/) `13` payments, totaling `$65.00USD`
 
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
@@ -80,11 +146,17 @@ I joined the GitHub sponsors program on 2023, Tuesday, May 9th, by starting to g
 |---|---|---|---|---|---|---|
 !-->
 
-</details>
+</details> <!-- End of sponsoring table section !-->
 
-</details>
+***
 
-#### [Organizations](#Organizations)
+_End of sponsoring section._
+
+</details> <!-- End of sponsoring section !-->
+
+***
+
+### [Organizations](#Organizations)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -93,7 +165,7 @@ This is a list of organizations I am sponsoring.
 > [`Click/tap here to see the complete monthly timeline of my sponsoring history`](/Graphics/GitHub/Screenshots/README.md)
 
 - [:octocat: `@freecodecamp`](https://github.com/FreeCodeCamp/) - $5.00 monthly since 2023, May 9th ($60.00 total, as of 2024, April 9th)
-- I am not sponsoring any other organizations at the moment, as of 2024, Saturday, May 4th
+- I am not sponsoring any other organizations at the moment, as of 2024, Thursday, May 9th
 
 <!-- - [:octocat: `@KDE`](https://github.com/KDE/) - Future sponorship is planned !-->
 
@@ -114,11 +186,17 @@ This is a list of organizations I am sponsoring.
   </tr>
 </table>
 
-</details>
+</details> <!-- End of organization table section !-->
 
-</details>
+***
 
-##### [Under consideration (organizations)](#Under-consideration-organizations)
+_End of organizations section._
+
+</details> <!-- End of organizations section !-->
+
+***
+
+### [Under consideration (organizations)](#Under-consideration-organizations)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
@@ -130,15 +208,32 @@ The following organizations are being considered for monthly donations:
 - [:octocat: `@eslint`](https://github.com/ESLint/) - Very weak consideration
 - No other considerations at the moment
 
-</details>
+</details> <!-- End of Under Consideration (organizations) section !-->
 
-#### [Individual developers](#Individual-developers)
+***
+
+#### [Under consideration (individual developers)](#Under-consideration-individual-developers)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
+
+The following users are being considered for monthly donations:
+
+- [:octocat: `@Sindresorhus`](https://github.com/sindresorhus/) - Medium consideration
+- [:octocat: `@Qix-`](https://github.com/Qix-/) - Weak consideration
+- [:octocat: `@Isaacs`](https://github.com/isaacs/) - Weak consideration
+- No other considerations at the moment
+
+</details> <!-- End of Under consideration (individual developers) section !-->
+
+***
+
+### [Individual developers](#Individual-developers)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
 
 This is a list of individual developers I am sponsoring.
 
-- I am not yet sponsoring any individual developers, as of 2024, Saturday, May 4th
+- I am not yet sponsoring any individual developers, as of 2024, Thursday, May 9th
 
 **Individual developer only table**
 
@@ -157,24 +252,13 @@ This is a list of individual developers I am sponsoring.
   </tr>
 </table>
 
-</details>
+</details> <!-- End of individual developers section !-->
 
-</details>
+***
 
-##### [Under consideration (individual developers)](#Under-consideration-individual-developers)
+_End of Individual developers section._
 
-<details open><summary><p><b>[Click/tap here to expand/collapse this section]</b></p></summary>
-
-The following users are being considered for monthly donations:
-
-- [:octocat: `@Sindresorhus`](https://github.com/sindresorhus/) - Medium consideration
-- [:octocat: `@Qix-`](https://github.com/Qix-/) - Weak consideration
-- [:octocat: `@Isaacs`](https://github.com/isaacs/) - Weak consideration
-- No other considerations at the moment
-
-</details>
-
-</details>
+</details> <!-- End of individual developers section !-->
 
 ***
 
@@ -184,34 +268,54 @@ The following users are being considered for monthly donations:
 
 This section was split off into the following repository: [:octocat: `Seanpm2001/Sponsors`](https://github.com/seanpm2001/Sponsors/)
 
-</details>
-
-</details>
+</details> <!-- End of Sponsors section !-->
 
 ***
+
+_End of GitHub sponsors section._
+
+</details> <!-- End of GitHub sponsors section !-->
+
+***
+
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
 ### [File info](#File-info)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
+<table>
+  <tr>
+    <td>
+
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `7 (2024, Saturday, May 4th at 03:31 pm PST)`
-- **Line count (including blank lines and compiler line):** `0,449`
-- **Word count:** `03,046`
-- **Character count (including spaces):** `019,792`
-- **Character count (excluding spaces):** `017,413`
-- **Size (in bytes):** `019,805`
+- **File version:** `8 (2024, Thursday, May 9th at 02:38 pm PST)`
+- **Line count (including blank lines and compiler line):** `0,601`
+- **Word count:** `03,560`
+- **Character count (including spaces):** `023,727`
+- **Character count (excluding spaces):** `020,709`
+- **Size (in bytes):** `023,740`
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+
+    </td>
+  </tr>
+</table>
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-</details>
+_End of file info section._
+
+</details> <!-- End of File Info section !-->
+
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
+
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
 ## [File history](#File-history)
 
@@ -429,9 +533,53 @@ This section was split off into the following repository: [:octocat: `Seanpm2001
 
 ---
 
+<details><summary><p lang="en"><b>Version 8 (2024, Thursday, May 9th at 02:38 pm PST)</b></p></summary>
+
+**This version was made by:** [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+**View this release separately:** [`Click/tap here`](/OldVersions/README/English/1/README_V8.md)
+
+> **Note** _Monthly update for 2024 May. Second update of 2024. A major remodel update._
+
+> Changes:
+
+- [x] Updated the title section
+- - [x] Added an as of image for 2024, May 9th
+- [x] Added the `Index` section
+- - [x] Listed all headings
+- - [x] Added commented tags to mark it as the index section
+- [x] Updated the `Sponsoring` section
+- - [x] Updated the `Payments` microsection
+- [x] Updated all `as of` counters to 2024, May 4th
+- [x] Updated the `File info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the character count (with spaces) count
+- - [x] Updated the character count (without spaces) count
+- - [x] Updated the byte count
+- - [x] Added commented tags to mark it as the file info section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 8
+- - [x] Added commented tags to mark it as the file history section
+- [x] Updated the Footer
+- - [x] Added commented tags to mark it as the footer section
+- [x] Adjusted all dropdowns, and added source code comments to the remaining ones that didn't have one
+- [ ] No other changes in version 8
+
+</details> <!-- V08 !-->
+
+---
+
+_End of file history section._
+
 </details> <!-- End of file history !-->
 
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
+
 ***
+
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
 ## [Footer](#Footer)
 
@@ -443,6 +591,10 @@ You have reached the bottom of this page.
 
 </details> <!-- End of footer !-->
 
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
+
 ###### [EOF](#EOF)
+
+</details> <!-- End of article !-->
 
 ***
