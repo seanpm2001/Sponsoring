@@ -5,9 +5,11 @@
 
 My top sponsorable dependencies (according to GitHub)
 
-As of 2025, Friday, October 10th
+As of 2025, Saturday, October 18th
 
-156 sponsorable accounts:
+<table>
+  <tr>
+    <td><b align="center">157 sponsorable accounts:</b>
 
 - https://github.com/sindresorhus
 - https://github.com/jonschlinkert
@@ -165,11 +167,20 @@ As of 2025, Friday, October 10th
 - https://github.com/emicklei
 - https://github.com/lufia
 - https://github.com/zserge
+- https://github.com/jackc
+
+    </td>
+  </tr>
+</table>
+
+**Notes:**
+
+I want to put these in a separate `FUNDING.yml` file, but it has a 4 user limit for GitHub sponsors. I am considering an automation script that shuffles between 4 entries per day.
 
 ***
 
 # File info
 
-**File version:** `1 (2025, Friday, October 10th at 09:25 pm PST)`
+**File version:** `2 (2025, Saturday, October 18th at 06:16 pm PST)`
 
 ***
